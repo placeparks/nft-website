@@ -1,0 +1,46 @@
+.section1{
+    height:600px;
+    width: 100%;
+    text-align: center;
+    background: rgb(135,0,0);
+background: radial-gradient(circle, rgba(135,0,0,1) 0%, rgba(25,10,5,1) 88%);
+
+}
+.section1 h1{
+    color: rgb(255, 255, 255);
+    margin-top: -15%;
+   padding-top: 0%;
+   
+}
+.section2{
+    background-color: #f0efee;
+    padding-top: 5%;
+    text-align: center;
+    height: fit-content;
+  padding-bottom: 5%;
+    
+}
+
+
+.section2 h5{
+max-width: 70%;
+text-align: center;
+    color: rgb(247, 9, 9);
+ margin-left: 12%;
+}
+
+.section3{
+padding-top: 7%;
+background-color:rgb(135,0,0);
+padding-bottom: 5%;
+}
+
+.section4{
+    background-color: black;
+    padding: 2%;
+text-align: center;
+    color: white;
+}
+.section4 h1{
+    padding-bottom: 2%;
+}
